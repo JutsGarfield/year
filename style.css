@@ -142,7 +142,7 @@ body {
     right: 635px;
   }
   100% {
-    right: 735px;
+    right: 250px;
     color: yellow;
   }
 }
@@ -189,11 +189,11 @@ body {
     right: 635px;
   }
   50% {
-    right: 450px;
+    right: 250px;
     top: 50%;
   }
   100% {
-    right: 450px;
+    right: 250px;
     top: -200%;
   }
 }
